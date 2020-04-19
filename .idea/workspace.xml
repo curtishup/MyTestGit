@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bced6a67-7955-441d-914c-245f0c3a2ab2" name="Default Changelist" comment="test111" />
+    <list default="true" id="bced6a67-7955-441d-914c-245f0c3a2ab2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587302251762</updated>
-      <workItem from="1587302256616" duration="2584000" />
+      <workItem from="1587302256616" duration="3314000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1587303120489</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587304607628</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test123">
+      <created>1587305299923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587305299923</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="test111" />
-    <option name="LAST_COMMIT_MESSAGE" value="test111" />
+    <MESSAGE value="test123" />
+    <option name="LAST_COMMIT_MESSAGE" value="test123" />
   </component>
   <component name="WindowStateProjectService">
     <state x="498" y="408" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587302412472">
